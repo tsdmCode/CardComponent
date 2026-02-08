@@ -1,3 +1,3 @@
 export function Card({ children }) {
-  return <>{children}</>;
+  return <div className="card">{children}</div>;
 }

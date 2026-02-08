@@ -1,3 +1,3 @@
 export function CardHeader({ text = 'Indhold mangler' }) {
-  return <div>{text}</div>;
+  return <h2>{text}</h2>;
 }
