@@ -1,3 +1,3 @@
-export function Card({ data, children }) {
+export function Card({ children }) {
   return <>{children}</>;
 }
