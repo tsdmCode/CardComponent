@@ -1,3 +1,3 @@
-export function CardBody({ content = '' }) {
+export function CardBody({ content = 'Indhold mangler' }) {
   return <div>{content}</div>;
 }
